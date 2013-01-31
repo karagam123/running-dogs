@@ -1,0 +1,20 @@
+body{
+background-image: URL(assets/omfgdogs.gif);
+}
+
+p{
+position: fixed;
+right: 15px;
+bottom:  30px;
+
+}
+
+#display{
+font-family: Lucida Console;
+font-size: x-large;
+color: Orange;
+background-color: White;
+font-style: bold;
+}
+
+</body>
